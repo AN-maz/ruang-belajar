@@ -1,0 +1,23 @@
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: .5rem;
+    color: var(--text-muted);
+}
+
+.form-group input {
+    width: 100%;
+    padding: .875rem 1rem;
+    background: rgba(0,0,0,.2);
+    border: 1px solid var(--surface-border);
+    border-radius: 10px;
+    color: var(--text-main);
+}
+
+.form-group input:focus {
+    outline: none;
+    border-color: var(--primary);
+}

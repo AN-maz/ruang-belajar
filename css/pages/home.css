@@ -23,3 +23,7 @@ body {
     color: var(--text-muted);
     margin-bottom: 2rem;
 }
+
+span{
+    color: var(--primary);
+}

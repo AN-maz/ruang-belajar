@@ -24,6 +24,6 @@ body {
     margin-bottom: 2rem;
 }
 
-span{
-    color: var(--primary);
+.hero p .highlight {
+color: var(--primary);
 }
